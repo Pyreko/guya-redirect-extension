@@ -13,8 +13,6 @@ const allowed_url_list = [
 
 const tachiyomi_foolslide_list = [
   // %%FOOLSLIDE START%%
-  "Silentskys-scans.net",
-  "Storm-in-heaven.net",
   "ajianoscantrad.fr",
   "deathtollscans.net",
   "evilflowers.com",
@@ -25,7 +23,6 @@ const tachiyomi_foolslide_list = [
   "hni-scantrad.com/eng/lel/",
   "hni-scantrad.com/lel/",
   "jaiminisbox.com",
-  "kangaryu-team.fr",
   "kireicake.com",
   "kirishimafansub.net",
   "kobato.hologfx.com",
@@ -41,11 +38,14 @@ const tachiyomi_foolslide_list = [
   "phantomreader.com",
   "ramareader.it",
   "read-nifteam.info",
+  "readedenszero.com",
   "reader.powermanga.org",
+  "reader.silentsky-scans.net",
   "reader2.thecatscans.com",
   "rusmanga.ru",
   "sensescans.com",
   "smuglo.li",
+  "storm-in-heaven.net",
   "tortuga-ceviri.com",
   "tuttoanimemanga.net",
   "yuri-ism.net/slide",
